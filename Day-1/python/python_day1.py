@@ -1,0 +1,1 @@
+print("helo this is demo  class of python")

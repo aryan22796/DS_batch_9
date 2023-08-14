@@ -14,5 +14,7 @@ step 3 :
 git clone https://github.com/aryan22796/DS_batch_9.git
 
 step-4 open with your IDE 
-
+once your file updated CTRL+s
+step-5 GOTO to github again 
+and push the code with commint 
 
